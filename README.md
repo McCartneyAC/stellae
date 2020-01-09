@@ -21,3 +21,5 @@ stellae %>%
   ) + 
   guides(color = FALSE)
   ```
+
+![hr diagram]()
