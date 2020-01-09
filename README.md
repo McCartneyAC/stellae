@@ -22,4 +22,4 @@ stellae %>%
   guides(color = FALSE)
   ```
 
-![hr diagram]()
+![hr diagram](https://github.com/McCartneyAC/stellae/blob/master/hr.png?raw=true)
